@@ -7,3 +7,8 @@ a{color:#27457A}
 .btn{display:inline-block;background:#27457A;color:#fff;padding:12px 26px;text-decoration:none;font-weight:700;margin:8px 0}
 footer{border-top:1px solid #D6DBE2;margin-top:48px;padding-top:16px;font-size:.85rem;color:#5F6876}
 ul{padding-left:1.3em}
+
+.note-box{background:#fff;border-left:4px solid #27457A;padding:14px 18px;margin:20px 0;font-size:.92rem}
+.note-box p{margin:0 0 8px}
+.note-box .note-title{font-weight:700;color:#1B3360}
+.note-box ul{margin:4px 0 0;padding-left:1.3em}
